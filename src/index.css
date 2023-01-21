@@ -112,6 +112,10 @@ a:focus-visible {
   flex-grow: 1;
 }
 
+.public__main{
+  min-height: 85vh;
+}
+
 .public__main,
 .login {
   flex-grow: 1;
